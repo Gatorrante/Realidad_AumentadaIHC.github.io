@@ -3,8 +3,6 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Banner](images/banner.jpg)
-
 ## Descripción
 
 **Realidad Aumentada IHC** es una página de prueba desarrollada para el curso de Interacción Hombre-Máquina. Aunque el proyecto está temáticamente basado en la realidad aumentada, no utiliza AR de manera literal. En su lugar, se centra en la temática mediante el uso de OnApps.
