@@ -17,17 +17,6 @@
 
 - **Temática de Realidad Aumentada:** La página está diseñada con una temática de realidad aumentada.
 - **Uso de OnApps:** Implementa OnApps para manejar la funcionalidad interactiva.
-- **Sin JavaScript:** La funcionalidad se gestiona sin necesidad de JavaScript.
-
-### Capturas de Pantalla
-
-Aquí tienes algunas capturas de pantalla de la página:
-
-![Pantalla Principal](images/imagen1.png)  
-Pantalla Principal
-
-![Vista del Contenido](images/imagen2.png)  
-Vista del Contenido
 
 ### Instalación
 
